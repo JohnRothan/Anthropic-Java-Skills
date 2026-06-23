@@ -1,6 +1,9 @@
-# PDF 文档（不提交）
+# docs/ 是本地书库（源书籍/资料），不提交版权材料，仅保留说明文件
+docs/*
+!docs/README.md
+
+# 通用
 *.pdf
-docs/*.pdf
 
 # Python
 __pycache__/
