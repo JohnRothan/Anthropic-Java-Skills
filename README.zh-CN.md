@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/JohnRothan/Anthropic-Java-Skills@master/assets/readme.webp" alt="Java Books to Claude Skills" width="720">
+  <img src="https://cdn.jsdelivr.net/gh/JohnRothan/Anthropic-Java-Skills@main/assets/readme.webp" alt="Java Books to Claude Skills" width="720">
 </p>
 
 <p align="center">
